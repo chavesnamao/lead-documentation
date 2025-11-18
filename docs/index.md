@@ -111,5 +111,5 @@ Os dados chegam em formato JSON com todas as informações necessárias:
 
 Confira também nossas outras documentações de integração:
 
-- 🏠 **[Documentação XML de Imóveis](https://tecnologiacnm.github.io/cnm-xml-documentation/)** - Integre seu sistema via XML para anúncios de imóveis
-- 🚗 **[API de Veículos](https://tecnologiacnm.github.io/cnm-vehicle-api-documentation/)** - Integração completa via API REST para gestão de veículos
+- 🏠 **[Documentação XML de Imóveis](https://chavesnamao.github.io/xml-documentation/)** - Integre seu sistema via XML para anúncios de imóveis
+- 🚗 **[API de Veículos](https://chavesnamao.github.io/vehicle-api-documentation/)** - Integração completa via API REST para gestão de veículos
