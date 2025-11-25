@@ -5,7 +5,7 @@ export default defineConfig({
   description: 'Documentação completa da API de Integração de Leads - Chaves na Mão',
   base: '/lead-documentation/',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: 'https://cdn.chavesnamao.com.br/common/logos/favicon.ico' }],
     ['style', {}, `
       :root {
         --vp-c-brand-1: #DC2626;
