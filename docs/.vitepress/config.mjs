@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: ' ',
+  lang: 'pt-BR',
+  title: 'Chaves na Mão - Documentação da API de Integração de Leads',
   description: 'Documentação completa da API de Integração de Leads - Chaves na Mão',
   base: '/lead-documentation/',
   head: [
@@ -23,6 +24,7 @@ export default defineConfig({
   ],
   
   themeConfig: {
+    siteTitle: false,
     logo: {
       light: 'https://cdn.chavesnamao.com.br/common/logos/logo-admin-login-2023.png',
       dark: 'https://cdn.chavesnamao.com.br/common/logos/logo-cnm-w.png'

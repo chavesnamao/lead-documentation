@@ -98,12 +98,12 @@ Os dados chegam em formato JSON com todas as informações necessárias:
 <div class="vp-doc">
   <div class="tip custom-block">
     <p class="custom-block-title">📖 Leia a Documentação</p>
-    <p>Confira o <a href="/guide/introducao">Guia de Introdução</a> para entender melhor o funcionamento da integração.</p>
+    <p>Confira o <a href="/lead-documentation/guide/introducao">Guia de Introdução</a> para entender melhor o funcionamento da integração.</p>
   </div>
 
   <div class="warning custom-block">
     <p class="custom-block-title">🔐 Configure a Autenticação</p>
-    <p>Entenda como funciona a <a href="/api/autenticacao">Autenticação Basic Auth</a> da API.</p>
+    <p>Entenda como funciona a <a href="/lead-documentation/api/autenticacao">Autenticação Basic Auth</a> da API.</p>
   </div>
 </div>
 
