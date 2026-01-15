@@ -42,7 +42,9 @@ Authorization: Basic Y2xpZW50ZUBleGVtcGxvLmNvbTphYmMxMjN4eXo3ODk=
     "fuel": "Gasolina",
     "manufacturedYear": "2020",
     "modelYear": "2021",
-    "mileage": "35000"
+    "mileage": "35000",
+    "url": "https://www.chavesnamao.com.br/veiculo/67890",
+    "value": 115000.00
   },
   "client": {
     "name": "Auto Motors Ltda",
@@ -81,6 +83,8 @@ Authorization: Basic Y2xpZW50ZUBleGVtcGxvLmNvbTphYmMxMjN4eXo3ODk=
 | `manufacturedYear` | string | Não | Ano de fabricação |
 | `modelYear` | string | Não | Ano do modelo |
 | `mileage` | string | Não | Quilometragem do veículo |
+| `url` | string | Sim | Url do anúncio |
+| `value` | float | Sim | Valor do anúncio |
 
 ## Objeto `client` (Anunciante)
 

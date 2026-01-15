@@ -36,7 +36,9 @@ Authorization: Basic Y2xpZW50ZUBleGVtcGxvLmNvbTphYmMxMjN4eXo3ODk=
     "title": "Apartamento 3 Quartos com Suíte - Jardim Paulista",
     "reference": "IMOB-2024-045",
     "realtyType": "Apartamento",
-    "purpose": "Venda"
+    "purpose": "Venda",
+    "url": "https://www.chavesnamao.com.br/imovel/98765",
+    "value": 850000.00
   },
   "client": {
     "name": "Imóveis Premium Ltda",
@@ -69,6 +71,8 @@ Authorization: Basic Y2xpZW50ZUBleGVtcGxvLmNvbTphYmMxMjN4eXo3ODk=
 | `reference` | string | Não | Código de referência do imóvel |
 | `realtyType` | string | Sim | Tipo do imóvel (Apartamento, Casa, Terreno, Sala Comercial, etc) |
 | `purpose` | string | Sim | Finalidade (Venda, Locação, Venda/Locação) |
+| `url` | string | Sim | Url do anúncio |
+| `value` | float | Sim | Valor do anúncio |
 
 ## Objeto `client` (Anunciante)
 
