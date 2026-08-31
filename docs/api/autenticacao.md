@@ -23,10 +23,9 @@ Este método garante o **envio seguro dos leads** e a **identificação única d
 O token é **individual para cada cliente** e pode ser obtido seguindo os passos abaixo:
 
 1. Acesse sua conta na plataforma Chaves na Mão
-2. Adicione/ative a **Integração de Leads Chaves na Mão** na sua conta junto a equipe de atendimento
-3. Acesse a aba **Meus Dados**
-4. Role até o final da página
-5. Em **Dados Adicionais**, localize o campo **Token Integração de leads**
+2. Acesse a aba **Meus Dados**
+3. Role até o final da página
+4. Em **Dados Adicionais**, localize o campo **Token Integração de leads**
 
 > **📋 Importante**: Cada cliente possui um token único. Caso tenha dificuldades para localizar ou ativar a integração, entre em contato com nossa equipe de atendimento.
 
